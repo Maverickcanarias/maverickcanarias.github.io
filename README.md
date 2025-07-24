@@ -1,2 +1,1 @@
-# MAVERICK Canarias
-Sitio web en construcción.
+# MAVERICK Canarias - Sitio web
