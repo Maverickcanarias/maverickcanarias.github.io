@@ -1,1 +1,2 @@
-# MAVERICK Canarias - Sitio web
+# Web oficial MAVERICK Canarias
+Sitio web completo.
